@@ -2,3 +2,4 @@
 Airbnb clone project
 
 Added some terms here about the project
+Added some terms here about the project
